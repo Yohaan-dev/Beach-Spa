@@ -1,11 +1,11 @@
 import React from 'react'
-import Header from './components/header'
-import Hero from './components/hero'
-import Accommodation from './components/accommodation'
-import Family from './components/family'
-import Luxury from './components/luxury'
-import Promos from './components/promos'
-import Footer from './components/footer'
+import Header from './components/header.jsx'
+import Hero from './components/hero.jsx'
+import Accommodation from './components/accommodation.jsx'
+import Family from './components/family.jsx'
+import Luxury from './components/luxury.jsx'
+import Promos from './components/promos.jsx'
+import Footer from './components/footer.jsx'
 
 const App = () => {
   return (
