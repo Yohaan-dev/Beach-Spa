@@ -4,7 +4,7 @@ import Hero from './components/hero.jsx'
 import Accommodation from './components/accommodation.jsx'
 import Family from './components/family.jsx'
 import Luxury from './components/luxury.jsx'
-import Promos from './components/promos.jsx'
+import Promos from './components/Promos.jsx'
 import Footer from './components/footer.jsx'
 
 const App = () => {

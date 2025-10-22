@@ -2,9 +2,10 @@ import React from 'react'
 import headerImage from '../assets/images/pexels-thorsten-technoman-109353-338504.jpg'
 
 const Header = () => {
-  return (
+  return
+     (
          <header className="relative" style={{
-        backgroundImage: `url(${headerImage})`,
+        backgroundImage: url(`${headerImage}`),
         backgroundSize: "cover",
         backgroundPosition: "center",
         height: "100vh",
