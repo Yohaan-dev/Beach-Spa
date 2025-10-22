@@ -3,7 +3,7 @@ import headerImage from '../assets/images/pexels-thorsten-technoman-109353-33850
 
 const Header = () => {
   return (
-         <div className="relative" style={{
+         <header className="relative" style={{
         backgroundImage: `url(${headerImage})`,
         backgroundSize: "cover",
         backgroundPosition: "center",
@@ -18,7 +18,7 @@ const Header = () => {
           <button className='bg-slate-100 px-8 py-3 p-3 font-serif'>Learn More</button>
         </div>
         </div>
-    </div>
+    </header>
   )
 }
 
