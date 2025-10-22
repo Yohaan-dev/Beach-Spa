@@ -1,11 +1,11 @@
 import React from 'react'
 import Header from './components/header'
 import Hero from './components/hero'
-import Accommodation from './components/Accommodation'
-import Family from './components/Family'
-import Luxury from './components/Luxury'
-import Promos from './components/Promos'
-import Footer from './components/Footer'
+import Accommodation from './components/accommodation'
+import Family from './components/family'
+import Luxury from './components/luxury'
+import Promos from './components/promos'
+import Footer from './components/footer'
 
 const App = () => {
   return (
