@@ -5,7 +5,7 @@ import Accommodation1 from './components/accommodation1.jsx'
 import Family1 from './components/family1.jsx'
 import Luxury1 from './components/luxury1.jsx'
 import Promos1 from './components/promos1.jsx'
-import Footer from './components/footer.jsx'
+import Footer1 from './components/footer1.jsx'
 
 const App = () => {
   return (
@@ -16,7 +16,7 @@ const App = () => {
       <Family1 />
       <Luxury1 />
       <Promos1 />
-      <Footer />
+      <Footer1 />
     </>
   )
 }
