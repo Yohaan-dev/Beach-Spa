@@ -1,5 +1,5 @@
 import React from 'react'
-import Header from './components/header.jsx'
+import Header1 from './components/header1.jsx'
 import Hero from './components/hero.jsx'
 import Accommodation from './components/accommodation.jsx'
 import Family from './components/family.jsx'
@@ -10,7 +10,7 @@ import Footer from './components/footer.jsx'
 const App = () => {
   return (
     <>
-      <Header />
+      <Header1 />
       <Hero />
       <Accommodation />
       <Family />
