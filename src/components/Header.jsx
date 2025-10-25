@@ -1,4 +1,4 @@
-import headerImage from '../assets/header-bg.jpg';
+import headerImage from '../assets/images/pexels-thorsten-technoman-109353-338504.jpg';
 
 const Header = () => {
     return (
