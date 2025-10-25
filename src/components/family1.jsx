@@ -1,9 +1,9 @@
 import React from 'react'
 import familyImage from '../assets/images/pexels-pixabay-261102.jpg'
 
-const Family = () => {
+const family1 = () => {
   return (
-     <div className='container mx-auto bg-orange-50 py-10 px-10 mt-8'>
+    <div className='container mx-auto bg-orange-50 py-10 px-10 mt-8'>
               <div className='flex flex-col md:flex-row space-y-8 md:space-y-0 items-center justify-between'>
                   <div className='text-left space-y-6'>
                       <h3 className='text-left text-2xl font-serif'>The Family Suite</h3>
@@ -18,4 +18,4 @@ const Family = () => {
   )
 }
 
-export default Family
+export default family1

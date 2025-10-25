@@ -1,10 +1,10 @@
 import React from 'react'
 import Header1 from './components/header1.jsx'
 import Hero1 from './components/hero1.jsx'
-import Accommodation from './components/accommodation.jsx'
-import Family from './components/family.jsx'
-import Luxury from './components/luxury.jsx'
-import Promos from './components/promos.jsx'
+import Accommodation1 from './components/accommodation1.jsx'
+import Family1 from './components/family1.jsx'
+import Luxury1 from './components/luxury1.jsx'
+import Promos1 from './components/promos1.jsx'
 import Footer from './components/footer.jsx'
 
 const App = () => {
@@ -12,10 +12,10 @@ const App = () => {
     <>
       <Header1 />
       <Hero1 />
-      <Accommodation />
-      <Family />
-      <Luxury />
-      <Promos />
+      <Accommodation1 />
+      <Family1 />
+      <Luxury1 />
+      <Promos1 />
       <Footer />
     </>
   )
