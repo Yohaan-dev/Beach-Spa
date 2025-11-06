@@ -5,9 +5,9 @@ import accommodationImage3 from '../assets/images/pexels-pixabay-271639.jpg'
 
 const accommodation1 = () => {
   return (
-    <div className='container mx-auto px-4 py-5'>
+    <div className='w-md mx-auto px-4 py-5'>
                 <h2 className='text-4xl text-orange-950 font-serif text-center pb-5'>Accommodations</h2>
-                <div className='flex flex-col md:flex-row justify-between space-y-4 md:space-y-0 md:space-x-2'>
+                <div className='flex flex-col md:flex-row justify-between space-y-4 md:space-y-0 md:space-x-3'>
                     <div className='space-y-4'>
                         <img src={accommodationImage1} alt="Accommodation 1" className='rounded-md md:w-96 md:h-60' />
                         <div className='border border-black border-spacing-1 pl-4 py-4'>

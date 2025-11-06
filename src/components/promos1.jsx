@@ -5,7 +5,7 @@ import promosImage3 from '../assets/images/pexels-francesco-ungaro-96444.jpg'
 
 const promos1 = () => {
   return (
-    <div className='container mx-auto my-32'>
+    <div className='w-full mx-auto my-32'>
               <h1 className='text-gray-900 text-4xl text-center font-serif pb-8'>Promos and Offers</h1>
               <div className='max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-6'>
                   <div className='flex flex-col bg-white shadow-lg rounded-md overflow-hidden h-full mx-4'>
