@@ -1,10 +1,20 @@
 import React from 'react'
-import { Outlet } from 'react-router-dom'
+import Header1 from '../components/header1.jsx'
+import Hero1 from '../components/hero1.jsx'
+import Accommodation1 from '../components/accommodation1.jsx'
+import Family1 from '../components/family1.jsx'
+import Luxury1 from '../components/luxury1.jsx'
+import Promos1 from '../components/promos1.jsx'
 
 const BeachSpa = () => {
   return (
       <>
-          <Outlet />
+          <Header1 />
+          <Hero1 />
+          <Accommodation1 />
+          <Family1 />
+          <Luxury1 />
+          <Promos1 />
       </>
   )
 }
